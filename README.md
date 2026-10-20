@@ -4,8 +4,6 @@ A responsive, single-page personal website that presents my academic background,
  
 **Live site:** [PLACEHOLDER: your deployed URL]
  
-![Screenshot of the landing page](screenshots/landing.png)
-<!-- PLACEHOLDER: add screenshots/landing.png (and optionally dark-mode and mobile screenshots) -->
  
 ---
  
@@ -39,21 +37,9 @@ A responsive, single-page personal website that presents my academic background,
 | Hick's law | Ten sections split into three labelled groups; each section has one main action |
 | Accessibility | Skip link, visible keyboard focus, ARIA labels, focus moves to the section heading after a menu jump, reduced-motion support |
  
-## Usability evaluation
+
  
-[PLACEHOLDER: summarise your evaluation here.]
- 
-Suggested method used for this course project:
- 
-1. **Heuristic evaluation** against Nielsen's ten heuristics.
-2. **Task-based test** with about 5 users:
-   - Find the source code of the AI Text Detector project.
-   - Open the blog article on competitive programming.
-   - Switch the site to dark mode.
-3. Record time on task, number of errors and a **SUS (System Usability Scale)** score.
-| Task | Avg. time | Errors | Notes |
-|---|---|---|---|
-| [PLACEHOLDER] | | | |
+
  
 ## Project structure
  
@@ -101,7 +87,5 @@ HTML5 · CSS3 (custom properties, grid, flexbox) · Vanilla JavaScript (Intersec
 - Course: Human-Computer Interaction (R5CO3005T), B.Tech Computer Engineering, VJTI.
 - Design references: Shneiderman's eight golden rules, Norman's principles, Nielsen's ten heuristics, Fitts' law and Hick's law.
 - Layout inspiration: the sidebar-and-continuous-scroll pattern used on other student portfolios.
-## License
- 
-[PLACEHOLDER: add a license, for example MIT, or remove this section.]
+
  
