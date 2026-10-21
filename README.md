@@ -2,7 +2,7 @@
  
 A responsive, single-page personal website that presents my academic background, projects, blog, activities, achievements and social profiles. It was built for the **Human-Computer Interaction (R5CO3005T)** course at VJTI, Mumbai, with the aim of applying established HCI principles to a real interface and evaluating its usability.
  
-**Live site:** [PLACEHOLDER: your deployed URL]
+**Live site:** https://vivek77-portfolio-ashy-three.vercel.app/?_vercel_share=wupGQ7FMCh4eCbL6HHAKNYWy10TkdMjv#home
  
  
 ---
